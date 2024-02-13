@@ -1,0 +1,34 @@
+---
+title: "Discipline and Police Conduct"
+format: pdf
+editor: visual
+author: Anannay Sood
+---
+
+## Introduction
+
+TBD
+
+## Data
+
+TBD
+
+## Results
+
+TBD
+
+## Discussion
+
+TBD
+
+## Conclusion
+
+TBD
+
+## Next Steps
+
+TBD
+
+## References
+
+TBD
